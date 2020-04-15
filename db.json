@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Address": [
+    { "Street": "Excellion street",
+      "Door Number": "87 CD",
+      "ZIP": "6466-YY",
+      "City": "Lisbon",
+      "Country": "Portugal" },
+    { "Street": "Whata street",
+      "Door Number": "XXXF",
+      "ZIP": "6767-987",
+      "City": "Praga",
+      "Country": "Check Republic"},
+    { "Street": "Sunny Side Street",
+      "Door Number": "7 Rgt",
+      "ZIP": "APNZ",
+      "City": "Camberra",
+      "Country": "Australia" }
+  ]
 }
